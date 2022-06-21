@@ -1,0 +1,4 @@
+- Hi, I’m @Erick
+- I’m interested in software development
+- I’m currently learning computer science
+- I’m looking to collaborate on software projects
